@@ -5,3 +5,12 @@ nav {
     padding: 10px 10px;
     color: green;
 }
+
+ul li  {
+    text-decoration: none;
+    list-style: none;
+    color: Red;  
+    list-style: none;
+    margin: 10px 10px 10px 10px;
+  
+}
